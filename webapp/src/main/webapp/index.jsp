@@ -1,4 +1,4 @@
-<h1> Hello, Welcome to Simple DevOps Project Serge !!   </h1>
-<h2> Data Service Group is your learning partner </h2>
-<h2> Glad to see you here </h2>
-<h1> Good job Serge on learning Devops</h1>
+<h1> Stay on your grind homie  </h1>
+<h2> The marathon continues </h2>
+<h2> You gotta pace yourself its all about your breathing </h2>
+<h1> RIP Nip The Great!!!! </h1>
